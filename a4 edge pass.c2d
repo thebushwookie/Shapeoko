@@ -1,0 +1,90 @@
+{
+    "CIRCLE_OBJECTS": [
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": true,
+        "HEIGHT": 230,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "MDF",
+        "RETRACT": 10,
+        "THICKNESS": 10,
+        "WIDTH": 400,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+        {
+            "corner_type": 0,
+            "group_id": [
+            ],
+            "height": 210,
+            "id": "{3cb225bc-95f1-44a8-96d9-610152af91cf}",
+            "position": [
+                218.5,
+                115
+            ],
+            "radius": 15,
+            "rotation": 0,
+            "width": 297
+        }
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": false,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{3cb225bc-95f1-44a8-96d9-610152af91cf}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -3,
+            "name": "Finish pass",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1500,
+                "plungerate": 146.685,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 3,
+            "stepover": 1.429,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.175,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{1cba4f90-ba99-49b5-98b3-47df1b953cd2}"
+        }
+    ]
+}

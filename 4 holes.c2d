@@ -1,0 +1,236 @@
+{
+    "CIRCLE_OBJECTS": [
+        {
+            "group_id": [
+            ],
+            "id": "{b982a223-26f8-4331-88a0-f7b0fe55cb6d}",
+            "position": [
+                4.5,
+                204.5
+            ],
+            "radius": 4.5
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{69b9c679-e69c-42b1-b8a3-7bee08d5fa70}",
+            "position": [
+                4.5,
+                4.5
+            ],
+            "radius": 4.5
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{08a0880a-903b-462f-97e0-a7f461b99fc2}",
+            "position": [
+                354.5,
+                204.5
+            ],
+            "radius": 4.5
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{f7261847-5570-42dc-8d75-30cd822c2859}",
+            "position": [
+                354.5,
+                4.5
+            ],
+            "radius": 4.5
+        }
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": true,
+        "HEIGHT": 209,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "MDF",
+        "RETRACT": 10,
+        "THICKNESS": 12.7,
+        "WIDTH": 359,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{69b9c679-e69c-42b1-b8a3-7bee08d5fa70}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -12.7,
+            "name": "Bottom Left",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 586.740000000001,
+                "plungerate": 146.68500000000026,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.8825008649406897,
+            "stepover": 1.42875,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.175,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{c1eb68ea-4dc3-4bf8-ae05-9aea29c00a1c}"
+        },
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{b982a223-26f8-4331-88a0-f7b0fe55cb6d}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -12.7,
+            "name": "Top Left",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 586.740000000001,
+                "plungerate": 146.68500000000026,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.8825008649406897,
+            "stepover": 1.42875,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.175,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{81b3426a-9675-49e8-9aab-4a419f0ca4a2}"
+        },
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{08a0880a-903b-462f-97e0-a7f461b99fc2}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -12.7,
+            "name": "top right",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 586.740000000001,
+                "plungerate": 146.68500000000026,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.8825008649406897,
+            "stepover": 1.42875,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.175,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{7ae1b9f5-017a-450e-a849-83bc19021ab6}"
+        },
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{f7261847-5570-42dc-8d75-30cd822c2859}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -12.7,
+            "name": "bottom right",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 586.740000000001,
+                "plungerate": 146.68500000000026,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.8825008649406897,
+            "stepover": 1.42875,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.175,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{ba032408-73d7-46a1-8a8b-2d1d31d566c8}"
+        }
+    ]
+}

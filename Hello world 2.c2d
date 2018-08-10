@@ -1,0 +1,92 @@
+{
+    "CIRCLE_OBJECTS": [
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 203.2,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "Aluminum",
+        "RETRACT": 10,
+        "THICKNESS": 25.4,
+        "WIDTH": 203.2,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+        {
+            "flip_horiz": false,
+            "flip_vert": false,
+            "font": "Arial-Regular",
+            "group_id": [
+            ],
+            "height": 25.4,
+            "id": "{10033942-47c9-4df3-a821-922e058f51b2}",
+            "position": [
+                1.393486093904313,
+                1.4036196426968321
+            ],
+            "rotation": 0,
+            "text": "Hello world",
+            "width": -1
+        }
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{10033942-47c9-4df3-a821-922e058f51b2}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -10,
+            "name": "Toolpath 1",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 931.3925999999999,
+                "plungerate": 77.6224,
+                "rpm": 12223
+            },
+            "start_depth": 0,
+            "stepdown": 0.254,
+            "stepover": 2.8702,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.35,
+                "display_mm": false,
+                "flutes": 3,
+                "length": 9.524999999999999,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{afbf0d34-e6be-4da1-9b49-02f29cd5e100}"
+        }
+    ]
+}

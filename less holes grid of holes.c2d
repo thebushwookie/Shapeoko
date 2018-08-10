@@ -1,0 +1,1191 @@
+{
+    "CIRCLE_OBJECTS": [
+        {
+            "group_id": [
+            ],
+            "id": "{446a54f8-13fe-4102-8364-b739881da369}",
+            "position": [
+                342.9,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ce5f4eb7-93cd-43e0-baa5-1a6a5f72080a}",
+            "position": [
+                342.9,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{cb5cf370-5cbd-418c-ae05-ded753a671df}",
+            "position": [
+                342.9,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{a5799188-b52a-44a2-a61e-bcd3940bf241}",
+            "position": [
+                342.9,
+                190.5
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{a84d1122-6d42-4cb4-92c6-6f572c3ef2cc}",
+            "position": [
+                342.9,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{0e2b2ba3-fb20-4676-91c8-66ce42d795db}",
+            "position": [
+                342.9,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{c2b0285a-9b07-472f-8c1e-d332a52dff65}",
+            "position": [
+                76.19999999999999,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{8f04af20-f980-4cf0-957e-a2348c0f89b7}",
+            "position": [
+                76.19999999999999,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{33548689-b75c-4679-95ff-4256d13f99cc}",
+            "position": [
+                76.19999999999999,
+                342.9
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{09d43672-90ae-4926-924e-012ac278506b}",
+            "position": [
+                38.099999999999994,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{6247e30a-f7af-4a0c-835c-3706970f0dc3}",
+            "position": [
+                38.099999999999994,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ed929c4c-6797-4959-85d7-f3bd82aaed6b}",
+            "position": [
+                114.3,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{7428acc1-112c-40c0-bd35-405c85c0bac8}",
+            "position": [
+                38.099999999999994,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{1d491cb1-24b5-4c14-8ca4-d6385e318de9}",
+            "position": [
+                76.19999999999999,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{57f8815e-123c-4901-90f5-ea0e1ad683c8}",
+            "position": [
+                114.3,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{00c19ab8-aa36-4628-96ac-365019fce6b8}",
+            "position": [
+                38.099999999999994,
+                342.9
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{7013133a-b18a-4e07-b63a-60cbddbc59c5}",
+            "position": [
+                38.099999999999994,
+                190.5
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{280ba93c-81bd-4ee1-a977-6e97c95b4f10}",
+            "position": [
+                38.099999999999994,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{993e1bbd-763f-446b-8d88-2c324d67ae8b}",
+            "position": [
+                114.3,
+                342.9
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{e98361ba-e601-4e62-a2a7-e069d6eadd39}",
+            "position": [
+                304.79999999999995,
+                38.099999999999994
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{53198127-12f3-4037-95c2-df75535e2911}",
+            "position": [
+                304.79999999999995,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{d9101ec4-ed67-4d01-84f1-7ccfb0132047}",
+            "position": [
+                38.099999999999994,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{2e2ea007-c2bd-4082-a620-8f8083d828b5}",
+            "position": [
+                38.099999999999994,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{17ab3bae-760f-4b52-8ea4-917a7054a95e}",
+            "position": [
+                342.9,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{d933176c-e3b1-4be3-9682-2f1346848cc7}",
+            "position": [
+                342.9,
+                38.099999999999994
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{797189c9-2b22-47c5-a9ef-1c7589005eee}",
+            "position": [
+                228.6,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{9d8dc337-4baf-4865-8e1d-861bd1e8e4a3}",
+            "position": [
+                228.6,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{7335e214-40bf-4d7b-b567-1efbf0f9c4f5}",
+            "position": [
+                304.79999999999995,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{b9377df5-e628-45f0-b4a9-a2b4b663be17}",
+            "position": [
+                266.7,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ee53d58d-da12-42ec-8745-0fbe43b8e29d}",
+            "position": [
+                342.9,
+                342.9
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{71de5213-e859-4038-8627-a8c15fd297ec}",
+            "position": [
+                76.19999999999999,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ac700574-28a3-487a-b60f-4884c8371d09}",
+            "position": [
+                38.099999999999966,
+                38.099999999999994
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{8c2e109a-0bd8-4d6a-85fd-f1479f5d1ad2}",
+            "position": [
+                304.79999999999995,
+                342.9
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{1afec282-53fb-4b52-915d-7adbadec7e6f}",
+            "position": [
+                304.79999999999995,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{b0133bb5-94e7-42dd-8c2d-aac6bf4893bb}",
+            "position": [
+                266.7,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{da45dd73-19e6-4abd-ab8f-e6669f1f72ba}",
+            "position": [
+                266.7,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{4c7d9e83-e73f-4fb2-a2f1-7471893f6d0d}",
+            "position": [
+                152.39999999999998,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{c16f8a80-5e78-420a-b836-5c2b9f519a29}",
+            "position": [
+                114.3,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ce47940f-93bc-42bc-84b6-ea9af9a49f37}",
+            "position": [
+                114.3,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{698f0553-41dc-401e-a1da-d2d179b1973c}",
+            "position": [
+                114.3,
+                190.5
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{c03e70e6-002a-4358-8e53-9564ce19642d}",
+            "position": [
+                114.3,
+                76.19999999999999
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{177aab83-5ad9-4631-bfe2-64f7900314fc}",
+            "position": [
+                114.3,
+                38.099999999999994
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{d0b5aabc-b23a-46c6-a678-f816d2da9b29}",
+            "position": [
+                76.19999999999999,
+                190.5
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ae16f908-5c4d-4a83-ba46-caaa0bd56ea7}",
+            "position": [
+                76.19999999999999,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{42d5ce72-d26e-47c2-b9d4-8f4e7e74bef4}",
+            "position": [
+                76.19999999999999,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{3a603c28-3b00-4052-92b0-dd1550c1648f}",
+            "position": [
+                152.39999999999998,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{4cd0f216-d0be-4334-880e-a473ddd78574}",
+            "position": [
+                76.19999999999999,
+                38.099999999999994
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{2811ea60-3522-4140-a0f7-f54bcf5e110c}",
+            "position": [
+                266.7,
+                38.099999999999994
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{47a1a7c9-3e07-46c1-b304-6a58827006d5}",
+            "position": [
+                266.7,
+                342.9
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{eea57b42-1660-404d-bbb9-5d7e727ac7ab}",
+            "position": [
+                266.7,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{d8d7fb36-e30d-467c-ba93-8f10796c0eaa}",
+            "position": [
+                266.7,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{6a6ecabb-5596-4e52-af36-c70875d2fb83}",
+            "position": [
+                266.7,
+                190.5
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{70113e24-a7c6-4f74-9971-8031656aa82e}",
+            "position": [
+                266.7,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{e0adb29f-e7c7-4a13-ac9a-77fb7847fe15}",
+            "position": [
+                228.6,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{cbed46f5-c1ad-44ee-ac01-093385c39a05}",
+            "position": [
+                228.6,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{e4fd692a-18db-438f-8eed-26a4a6d3ca47}",
+            "position": [
+                152.39999999999998,
+                304.79999999999995
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{4ad0f71b-e5ce-457d-9bed-3fb11c312789}",
+            "position": [
+                152.39999999999998,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{3a393b55-5fbf-437d-949c-e1e4c0558b4a}",
+            "position": [
+                228.6,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{5b26d596-b2ab-4bac-ad43-9d70e8e979f8}",
+            "position": [
+                114.3,
+                114.3
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{0632a689-9aac-4cc5-828e-31ac1d6b839b}",
+            "position": [
+                304.79999999999995,
+                152.39999999999998
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{a110e5b4-523d-45d8-aa93-4186a86952d5}",
+            "position": [
+                304.79999999999995,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{d568115d-21ad-4928-90ac-6c1557ca8532}",
+            "position": [
+                304.79999999999995,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{b826a653-563e-4a85-8900-1fc5966e2c1c}",
+            "position": [
+                304.79999999999995,
+                190.5
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{aecdfe39-dcc7-4896-a20b-0fb2c8ec50f2}",
+            "position": [
+                152.39999999999998,
+                266.7
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{1c6e4b0f-50e5-4f98-992a-08506c813f2b}",
+            "position": [
+                228.6,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{989e42fe-1b1a-4a54-946e-9b2b2beaecf0}",
+            "position": [
+                152.39999999999998,
+                228.6
+            ],
+            "radius": 8.889999999999999
+        }
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 381,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "MDF",
+        "RETRACT": 25.4,
+        "THICKNESS": 12.7,
+        "WIDTH": 381,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": false,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{989e42fe-1b1a-4a54-946e-9b2b2beaecf0}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{1c6e4b0f-50e5-4f98-992a-08506c813f2b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{aecdfe39-dcc7-4896-a20b-0fb2c8ec50f2}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{b826a653-563e-4a85-8900-1fc5966e2c1c}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d568115d-21ad-4928-90ac-6c1557ca8532}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{a110e5b4-523d-45d8-aa93-4186a86952d5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{0632a689-9aac-4cc5-828e-31ac1d6b839b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{5b26d596-b2ab-4bac-ad43-9d70e8e979f8}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{3a393b55-5fbf-437d-949c-e1e4c0558b4a}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{4ad0f71b-e5ce-457d-9bed-3fb11c312789}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{e4fd692a-18db-438f-8eed-26a4a6d3ca47}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{cbed46f5-c1ad-44ee-ac01-093385c39a05}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{e0adb29f-e7c7-4a13-ac9a-77fb7847fe15}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{70113e24-a7c6-4f74-9971-8031656aa82e}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{6a6ecabb-5596-4e52-af36-c70875d2fb83}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d8d7fb36-e30d-467c-ba93-8f10796c0eaa}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{eea57b42-1660-404d-bbb9-5d7e727ac7ab}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{47a1a7c9-3e07-46c1-b304-6a58827006d5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{2811ea60-3522-4140-a0f7-f54bcf5e110c}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{4cd0f216-d0be-4334-880e-a473ddd78574}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{3a603c28-3b00-4052-92b0-dd1550c1648f}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{42d5ce72-d26e-47c2-b9d4-8f4e7e74bef4}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ae16f908-5c4d-4a83-ba46-caaa0bd56ea7}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d0b5aabc-b23a-46c6-a678-f816d2da9b29}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{177aab83-5ad9-4631-bfe2-64f7900314fc}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{c03e70e6-002a-4358-8e53-9564ce19642d}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{698f0553-41dc-401e-a1da-d2d179b1973c}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ce47940f-93bc-42bc-84b6-ea9af9a49f37}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{c16f8a80-5e78-420a-b836-5c2b9f519a29}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{4c7d9e83-e73f-4fb2-a2f1-7471893f6d0d}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{da45dd73-19e6-4abd-ab8f-e6669f1f72ba}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{b0133bb5-94e7-42dd-8c2d-aac6bf4893bb}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{1afec282-53fb-4b52-915d-7adbadec7e6f}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{8c2e109a-0bd8-4d6a-85fd-f1479f5d1ad2}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ac700574-28a3-487a-b60f-4884c8371d09}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{71de5213-e859-4038-8627-a8c15fd297ec}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ee53d58d-da12-42ec-8745-0fbe43b8e29d}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{b9377df5-e628-45f0-b4a9-a2b4b663be17}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{7335e214-40bf-4d7b-b567-1efbf0f9c4f5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{9d8dc337-4baf-4865-8e1d-861bd1e8e4a3}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{797189c9-2b22-47c5-a9ef-1c7589005eee}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d933176c-e3b1-4be3-9682-2f1346848cc7}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{17ab3bae-760f-4b52-8ea4-917a7054a95e}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{2e2ea007-c2bd-4082-a620-8f8083d828b5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d9101ec4-ed67-4d01-84f1-7ccfb0132047}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{53198127-12f3-4037-95c2-df75535e2911}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{e98361ba-e601-4e62-a2a7-e069d6eadd39}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{993e1bbd-763f-446b-8d88-2c324d67ae8b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{280ba93c-81bd-4ee1-a977-6e97c95b4f10}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{7013133a-b18a-4e07-b63a-60cbddbc59c5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{00c19ab8-aa36-4628-96ac-365019fce6b8}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{57f8815e-123c-4901-90f5-ea0e1ad683c8}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{1d491cb1-24b5-4c14-8ca4-d6385e318de9}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{7428acc1-112c-40c0-bd35-405c85c0bac8}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ed929c4c-6797-4959-85d7-f3bd82aaed6b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{6247e30a-f7af-4a0c-835c-3706970f0dc3}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{09d43672-90ae-4926-924e-012ac278506b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{33548689-b75c-4679-95ff-4256d13f99cc}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{8f04af20-f980-4cf0-957e-a2348c0f89b7}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{c2b0285a-9b07-472f-8c1e-d332a52dff65}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{0e2b2ba3-fb20-4676-91c8-66ce42d795db}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{a84d1122-6d42-4cb4-92c6-6f572c3ef2cc}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{a5799188-b52a-44a2-a61e-bcd3940bf241}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{cb5cf370-5cbd-418c-ae05-ded753a671df}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ce5f4eb7-93cd-43e0-baa5-1a6a5f72080a}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{446a54f8-13fe-4102-8364-b739881da369}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -12.7,
+            "name": "66 Holes",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 406.4,
+                "plungerate": 50.8,
+                "rpm": 9375
+            },
+            "start_depth": 0,
+            "stepdown": 0.889,
+            "stepover": 1.4223999999999999,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.175,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{1e3fffbb-a273-47dc-943b-82cc2b03103a}"
+        }
+    ]
+}

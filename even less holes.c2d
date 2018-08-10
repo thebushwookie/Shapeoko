@@ -1,0 +1,681 @@
+{
+    "CIRCLE_OBJECTS": [
+        {
+            "group_id": [
+            ],
+            "id": "{a5799188-b52a-44a2-a61e-bcd3940bf241}",
+            "position": [
+                342.9,
+                190.5
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{a84d1122-6d42-4cb4-92c6-6f572c3ef2cc}",
+            "position": [
+                342.9,
+                114.3
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{c2b0285a-9b07-472f-8c1e-d332a52dff65}",
+            "position": [
+                76.19999999999999,
+                304.79999999999995
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{09d43672-90ae-4926-924e-012ac278506b}",
+            "position": [
+                38.099999999999994,
+                114.3
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{6247e30a-f7af-4a0c-835c-3706970f0dc3}",
+            "position": [
+                38.099999999999994,
+                266.7
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{1d491cb1-24b5-4c14-8ca4-d6385e318de9}",
+            "position": [
+                76.19999999999999,
+                228.6
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{00c19ab8-aa36-4628-96ac-365019fce6b8}",
+            "position": [
+                38.099999999999994,
+                342.9
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{7013133a-b18a-4e07-b63a-60cbddbc59c5}",
+            "position": [
+                38.099999999999994,
+                190.5
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{993e1bbd-763f-446b-8d88-2c324d67ae8b}",
+            "position": [
+                114.3,
+                342.9
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{53198127-12f3-4037-95c2-df75535e2911}",
+            "position": [
+                304.79999999999995,
+                76.19999999999999
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{d933176c-e3b1-4be3-9682-2f1346848cc7}",
+            "position": [
+                342.9,
+                38.099999999999994
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{797189c9-2b22-47c5-a9ef-1c7589005eee}",
+            "position": [
+                228.6,
+                76.19999999999999
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{7335e214-40bf-4d7b-b567-1efbf0f9c4f5}",
+            "position": [
+                304.79999999999995,
+                304.79999999999995
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{b9377df5-e628-45f0-b4a9-a2b4b663be17}",
+            "position": [
+                266.7,
+                266.7
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ee53d58d-da12-42ec-8745-0fbe43b8e29d}",
+            "position": [
+                342.9,
+                342.9
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{71de5213-e859-4038-8627-a8c15fd297ec}",
+            "position": [
+                76.19999999999999,
+                76.19999999999999
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ac700574-28a3-487a-b60f-4884c8371d09}",
+            "position": [
+                38.099999999999966,
+                38.099999999999994
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{4c7d9e83-e73f-4fb2-a2f1-7471893f6d0d}",
+            "position": [
+                152.39999999999998,
+                76.19999999999999
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ce47940f-93bc-42bc-84b6-ea9af9a49f37}",
+            "position": [
+                114.3,
+                266.7
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{698f0553-41dc-401e-a1da-d2d179b1973c}",
+            "position": [
+                114.3,
+                190.5
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{177aab83-5ad9-4631-bfe2-64f7900314fc}",
+            "position": [
+                114.3,
+                38.099999999999994
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ae16f908-5c4d-4a83-ba46-caaa0bd56ea7}",
+            "position": [
+                76.19999999999999,
+                152.39999999999998
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{3a603c28-3b00-4052-92b0-dd1550c1648f}",
+            "position": [
+                152.39999999999998,
+                152.39999999999998
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{2811ea60-3522-4140-a0f7-f54bcf5e110c}",
+            "position": [
+                266.7,
+                38.099999999999994
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{47a1a7c9-3e07-46c1-b304-6a58827006d5}",
+            "position": [
+                266.7,
+                342.9
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{eea57b42-1660-404d-bbb9-5d7e727ac7ab}",
+            "position": [
+                266.7,
+                114.3
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{6a6ecabb-5596-4e52-af36-c70875d2fb83}",
+            "position": [
+                266.7,
+                190.5
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{e0adb29f-e7c7-4a13-ac9a-77fb7847fe15}",
+            "position": [
+                228.6,
+                152.39999999999998
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{cbed46f5-c1ad-44ee-ac01-093385c39a05}",
+            "position": [
+                228.6,
+                304.79999999999995
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{e4fd692a-18db-438f-8eed-26a4a6d3ca47}",
+            "position": [
+                152.39999999999998,
+                304.79999999999995
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{5b26d596-b2ab-4bac-ad43-9d70e8e979f8}",
+            "position": [
+                114.3,
+                114.3
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{0632a689-9aac-4cc5-828e-31ac1d6b839b}",
+            "position": [
+                304.79999999999995,
+                152.39999999999998
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{d568115d-21ad-4928-90ac-6c1557ca8532}",
+            "position": [
+                304.79999999999995,
+                228.6
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{1c6e4b0f-50e5-4f98-992a-08506c813f2b}",
+            "position": [
+                228.6,
+                228.6
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{989e42fe-1b1a-4a54-946e-9b2b2beaecf0}",
+            "position": [
+                152.39999999999998,
+                228.6
+            ],
+            "radius": 4.444999999999999
+        },
+        {
+            "group_id": [
+            ],
+            "id": "{ce5f4eb7-93cd-43e0-baa5-1a6a5f72080a}",
+            "position": [
+                342.9,
+                266.7
+            ],
+            "radius": 4.444999999999999
+        }
+    ],
+    "CURVE_OBJECTS": [
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 381,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "MDF",
+        "RETRACT": 25.4,
+        "THICKNESS": 12.7,
+        "WIDTH": 381,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 5,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": true,
+            "elements": [
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ce5f4eb7-93cd-43e0-baa5-1a6a5f72080a}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{989e42fe-1b1a-4a54-946e-9b2b2beaecf0}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{1c6e4b0f-50e5-4f98-992a-08506c813f2b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d568115d-21ad-4928-90ac-6c1557ca8532}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{0632a689-9aac-4cc5-828e-31ac1d6b839b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{5b26d596-b2ab-4bac-ad43-9d70e8e979f8}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{e4fd692a-18db-438f-8eed-26a4a6d3ca47}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{cbed46f5-c1ad-44ee-ac01-093385c39a05}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{e0adb29f-e7c7-4a13-ac9a-77fb7847fe15}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{6a6ecabb-5596-4e52-af36-c70875d2fb83}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{eea57b42-1660-404d-bbb9-5d7e727ac7ab}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{47a1a7c9-3e07-46c1-b304-6a58827006d5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{2811ea60-3522-4140-a0f7-f54bcf5e110c}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{3a603c28-3b00-4052-92b0-dd1550c1648f}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ae16f908-5c4d-4a83-ba46-caaa0bd56ea7}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{177aab83-5ad9-4631-bfe2-64f7900314fc}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{698f0553-41dc-401e-a1da-d2d179b1973c}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ce47940f-93bc-42bc-84b6-ea9af9a49f37}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{4c7d9e83-e73f-4fb2-a2f1-7471893f6d0d}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ac700574-28a3-487a-b60f-4884c8371d09}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{71de5213-e859-4038-8627-a8c15fd297ec}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{ee53d58d-da12-42ec-8745-0fbe43b8e29d}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{b9377df5-e628-45f0-b4a9-a2b4b663be17}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{7335e214-40bf-4d7b-b567-1efbf0f9c4f5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{797189c9-2b22-47c5-a9ef-1c7589005eee}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{d933176c-e3b1-4be3-9682-2f1346848cc7}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{53198127-12f3-4037-95c2-df75535e2911}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{993e1bbd-763f-446b-8d88-2c324d67ae8b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{7013133a-b18a-4e07-b63a-60cbddbc59c5}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{00c19ab8-aa36-4628-96ac-365019fce6b8}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{1d491cb1-24b5-4c14-8ca4-d6385e318de9}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{6247e30a-f7af-4a0c-835c-3706970f0dc3}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{09d43672-90ae-4926-924e-012ac278506b}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{c2b0285a-9b07-472f-8c1e-d332a52dff65}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{a84d1122-6d42-4cb4-92c6-6f572c3ef2cc}"
+                },
+                {
+                    "tab_index": [
+                    ],
+                    "tab_u": [
+                    ],
+                    "uuid": "{a5799188-b52a-44a2-a61e-bcd3940bf241}"
+                }
+            ],
+            "enabled": true,
+            "end_depth": -12.7,
+            "name": "36 Holes",
+            "ofset_dir": 2,
+            "speeds": {
+                "feedrate": 586.74,
+                "plungerate": 146.685,
+                "rpm": 9375
+            },
+            "start_depth": -0.0254,
+            "stepdown": 0.889,
+            "stepover": 1.4223999999999999,
+            "tab_height": 3,
+            "tab_width": 12,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 3.175,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 19.049999999999997,
+                "name": "",
+                "number": 102,
+                "overall_length": 0,
+                "uuid": "{00000000-0000-0000-0000-000000000102}"
+            },
+            "uuid": "{4fab2c18-3aaa-41fb-8757-4562fb7b685d}"
+        }
+    ]
+}
